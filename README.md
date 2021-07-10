@@ -1,7 +1,5 @@
 # Git-Socket-Programming
 
-# Git-Socket-Programming
-
 This project aims to automatically clone a remote repository to a local branch in the user's system. The user will require to enter the details of the main branch, local branch and url of the remote repository. 
 It includes concepts of socket programming in Java and C++, process creation in Windows OS, git and a little bit of frontend(html).
 
